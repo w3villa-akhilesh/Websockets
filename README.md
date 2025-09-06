@@ -58,7 +58,7 @@ A modern, full-stack real-time chat application built with React, Node.js, Expre
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/w3villa-akhilesh/Websockets.git
 cd Websockets
 ```
 
